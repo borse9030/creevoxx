@@ -55,6 +55,7 @@ export default function RootLayout({ children }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover" />
         <meta name="google-site-verification" content="0RTOjPLkXdkNGYWxUJbtRUaGGVTjRiTSpp0qC3a_s2A" />
+        <meta name="google-site-verification" content="4M6kXhti4CzRP22wdAIhGdjt-Mlx_17q42HfxA1dx24" />
         <meta name="monetag" content="559413adb7cf25d9abaec9f79fe34bba" />
         <script
           type="application/ld+json"
