@@ -481,6 +481,7 @@ export default function ResourceCard({ resource, searchQuery = "", priority = fa
           </span>
         </div>
       </div>
+      </div>
       </article>
     </Link>
   );
