@@ -18,7 +18,7 @@ const STATS = {
 
 const LINKS = {
   youtubeChannel: "https://youtube.com/@creevoxx?si=6an4S31derNpahWX",
-  website: "https://www.creevoxx.dev",
+  website: "https://www.creevoxx.store",
   contactEmail: "mailto:realcreevoxx@gmail.com",
 };
 
@@ -380,7 +380,7 @@ export default function SponsorPage() {
               <span style={{ fontSize: '1.2rem', fontWeight: 'bold', color: 'var(--color-primary)' }}>{STATS.websiteMonthlyVisitors}</span>
               <span style={{ fontSize: '1rem', color: 'var(--color-text-muted)' }}>Monthly Site Visitors</span>
               <span style={{ fontSize: '1rem', color: 'var(--color-text-muted)' }}>•</span>
-              <span style={{ fontSize: '1rem', color: 'var(--color-text-muted)' }}>creevoxx.dev — <a href={LINKS.website} style={{color: "var(--color-accent)", textDecoration: 'none', fontWeight: '600'}}>Visit Site</a></span>
+              <span style={{ fontSize: '1rem', color: 'var(--color-text-muted)' }}>creevoxx.store — <a href={LINKS.website} style={{color: "var(--color-accent)", textDecoration: 'none', fontWeight: '600'}}>Visit Site</a></span>
             </div>
           </div>
         </div>
@@ -452,7 +452,7 @@ export default function SponsorPage() {
             [YOUR BANNER AD HERE - 728x90 or similar]
           </div>
           <p className={styles.bannerDesc}>
-            Appears prominently on resource pages and high-traffic areas of creevoxx.dev.
+            Appears prominently on resource pages and high-traffic areas of creevoxx.store.
           </p>
         </div>
       </section>

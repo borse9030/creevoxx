@@ -9,7 +9,7 @@ import CookieConsent from "@/components/CookieConsent";
 import MonetagController from "@/components/MonetagController";
 
 export const metadata = {
-  metadataBase: new URL("https://www.creevoxx.dev"),
+  metadataBase: new URL("https://www.creevoxx.store"),
   title: {
     default: "Creevoxx - Best Minecraft Shaders, Textures & Mods",
     template: "%s | Creevoxx",
@@ -19,16 +19,16 @@ export const metadata = {
   keywords:
     "minecraft shaders, shaders for minecraft, minecraft shaders for pocket edition, low end minecraft shaders, 2gb ram minecraft shaders, rtx minecraft shader, creevoxx, minecraft texture packs, minecraft mods",
   alternates: {
-    canonical: "https://www.creevoxx.dev",
+    canonical: "https://www.creevoxx.store",
   },
   openGraph: {
     title: "Creevoxx — Minecraft Shaders, Texture Packs & Mods",
     description: "Discover the best Minecraft shaders at Creevoxx. From low end Minecraft shaders for 2GB RAM to RTX Minecraft shaders, and Minecraft shaders for Pocket Edition (MCPE).",
     type: "website",
-    url: "https://www.creevoxx.dev",
+    url: "https://www.creevoxx.store",
     images: [
       {
-        url: "https://www.creevoxx.dev/og-default.png",
+        url: "https://www.creevoxx.store/og-default.png",
         width: 1200,
         height: 630,
         alt: "Creevoxx — Best Minecraft Shaders, Texture Packs & Mods",
@@ -39,7 +39,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Creevoxx - Best Minecraft Shaders, Textures & Mods",
     description: "Discover the best Minecraft shaders at Creevoxx. From low end Minecraft shaders for 2GB RAM to RTX Minecraft shaders, and Minecraft shaders for Pocket Edition (MCPE).",
-    images: ["https://www.creevoxx.dev/og-default.png"],
+    images: ["https://www.creevoxx.store/og-default.png"],
   },
   icons: {
     icon: "/favicon.png",
@@ -69,10 +69,10 @@ export default function RootLayout({ children }) {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
                 "name": "Creevoxx",
-                "url": "https://www.creevoxx.dev/",
+                "url": "https://www.creevoxx.store/",
                 "potentialAction": {
                   "@type": "SearchAction",
-                  "target": "https://www.creevoxx.dev/?q={search_term_string}",
+                  "target": "https://www.creevoxx.store/?q={search_term_string}",
                   "query-input": "required name=search_term_string"
                 }
               },
@@ -80,8 +80,8 @@ export default function RootLayout({ children }) {
                 "@context": "https://schema.org",
                 "@type": "Organization",
                 "name": "Creevoxx",
-                "url": "https://www.creevoxx.dev/",
-                "logo": "https://www.creevoxx.dev/logo.png",
+                "url": "https://www.creevoxx.store/",
+                "logo": "https://www.creevoxx.store/logo.png",
                 "sameAs": [
                   "https://youtube.com/@creevoxx?si=6an4S31derNpahWX",
                   "https://www.instagram.com/creevoxx_shorts/"

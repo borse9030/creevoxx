@@ -9,7 +9,7 @@ export async function GET(request, { params }) {
   const origin = request.headers.get("origin") || "";
   const referer = request.headers.get("referer") || "";
   const host = request.headers.get("host") || "";
-  const allowedHost = "creevoxx.dev";
+  const allowedHost = "creevoxx.store";
   const isBrowserOrigin =
     origin.includes(allowedHost) ||
     referer.includes(allowedHost) ||

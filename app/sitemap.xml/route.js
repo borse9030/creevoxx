@@ -5,7 +5,7 @@ import { ARTICLES } from "@/app/guides/data";
 export const revalidate = 86400; // regenerate at most once per day — sitemap content is stable
 
 export async function GET() {
-  const baseUrl = "https://www.creevoxx.dev";
+  const baseUrl = "https://www.creevoxx.store";
 
   // Stable site launch / last major structural update date.
   // Only bump this when static page content significantly changes.

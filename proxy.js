@@ -12,7 +12,7 @@ export function proxy(request) {
   // ── 1. Redirect .vercel.app → real domain ────────────────────────────────
   if (host.includes("vercel.app")) {
     const url = request.nextUrl.clone();
-    url.host = "www.creevoxx.dev";
+    url.host = "www.creevoxx.store";
     url.protocol = "https:";
     url.port = "";
     return NextResponse.redirect(url, { status: 308 });
@@ -35,9 +35,9 @@ export function proxy(request) {
     const isLocalDev = host.startsWith("localhost") || host.startsWith("127.0.0.1");
     const isSameOrigin =
       isLocalDev || // always allow on local dev (enables iPhone UA testing in DevTools)
-      origin.includes("creevoxx.dev") ||
-      referer.includes("creevoxx.dev") ||
-      host.includes("creevoxx.dev"); // reliable fallback: always sent for same-origin requests
+      origin.includes("creevoxx.store") ||
+      referer.includes("creevoxx.store") ||
+      host.includes("creevoxx.store"); // reliable fallback: always sent for same-origin requests
 
     // Block obvious bots/scrapers that aren't the Flutter app and aren't same-origin
     if (!hasValidSecret && !isSameOrigin) {

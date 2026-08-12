@@ -46,14 +46,14 @@ export async function generateMetadata({ params }) {
     const catLabel = category === "shaders" ? "Shader" : category === "textures" ? "Texture" : "Mod";
 
     const thumbnail = details?.logoUrl || resource?.thumbnail_url || null;
-    const ogImage = thumbnail || "https://creevoxx.dev/og-default.png";
+    const ogImage = thumbnail || "https://creevoxx.store/og-default.png";
     const downloadCount = details?.downloadCount || null;
 
     return {
       title: `${rawTitle} for Minecraft ${version} — Download | Creevoxx`,
       description: `Download ${rawTitle} for Minecraft ${version}. Created by ${author}. ${summary.substring(0, 100)}... Official links and installation guide.`,
       alternates: {
-        canonical: `https://www.creevoxx.dev/resource/${id}`,
+        canonical: `https://www.creevoxx.store/resource/${id}`,
       },
       robots: isIndexable
         ? { index: true, follow: true }
@@ -77,7 +77,7 @@ export async function generateMetadata({ params }) {
     title: "Minecraft Mod Details | Creevoxx",
     description: "Read details, optimization options, and user reviews for Minecraft shaders and modifications.",
     alternates: {
-      canonical: `https://www.creevoxx.dev/resource/${id}`,
+      canonical: `https://www.creevoxx.store/resource/${id}`,
     },
     // Fallback: apply same indexing logic even on error so non-whitelisted pages
     // are never accidentally indexed when metadata generation fails.
@@ -322,7 +322,7 @@ export default async function ResourceDetailPage({ params }) {
         "name": details.name || resource.title,
         "author": { "@type": "Person", "name": details.authors?.[0]?.name || resource.author || "creator" },
         "description": details.summary || resource.description || "",
-        "url": `https://www.creevoxx.dev/resource/${id}`,
+        "url": `https://www.creevoxx.store/resource/${id}`,
         "downloadUrl": details.downloadUrl || resource.curseforge_url || "",
         "applicationCategory": "GameApplication",
         "operatingSystem": "Windows, macOS, Linux, Android, iOS",
@@ -335,8 +335,8 @@ export default async function ResourceDetailPage({ params }) {
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.creevoxx.dev/" },
-          { "@type": "ListItem", "position": 2, "name": details.category || resource.category || "mods", "item": `https://www.creevoxx.dev/?category=${details.category || resource.category || "mods"}` },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.creevoxx.store/" },
+          { "@type": "ListItem", "position": 2, "name": details.category || resource.category || "mods", "item": `https://www.creevoxx.store/?category=${details.category || resource.category || "mods"}` },
           { "@type": "ListItem", "position": 3, "name": details.name || resource.title },
         ],
       },

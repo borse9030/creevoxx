@@ -37,7 +37,7 @@ function getCustomThumbnail(title) {
   const upperTitle = title.toUpperCase();
   for (const [key, file] of Object.entries(GLOBAL_CUSTOM_THUMBNAILS)) {
     if (upperTitle.includes(key)) {
-      return \`https://creevoxx.dev/thumbnails/\${file}.webp\`;
+      return \`https://creevoxx.store/thumbnails/\${file}.webp\`;
     }
   }
   return null;

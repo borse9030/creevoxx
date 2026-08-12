@@ -37,8 +37,8 @@ export async function generateMetadata({ searchParams }) {
   const isFiltered = hasFilters || page > 1;
 
   const canonicalUrl = category 
-    ? `https://www.creevoxx.dev/?category=${category}` 
-    : "https://www.creevoxx.dev/";
+    ? `https://www.creevoxx.store/?category=${category}` 
+    : "https://www.creevoxx.store/";
 
   let dynamicTitle = "Creevoxx — Best Minecraft Shaders, Texture Packs & Mods";
   if (category === "shaders") dynamicTitle = "Best Minecraft Shaders | Creevoxx";

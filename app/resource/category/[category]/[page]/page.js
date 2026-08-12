@@ -38,7 +38,7 @@ export async function generateMetadata({ params, searchParams }) {
     title: `Best Minecraft ${categoryTitle} — Page ${pageNum} | Creevoxx`,
     description: `Browse the top manually-tested and optimized Minecraft ${categoryTitle} for Minecraft 1.21.4. Page ${pageNum} of curated ${categoryTitle.toLowerCase()} with Fabric/Forge support.`,
     alternates: {
-      canonical: `https://www.creevoxx.dev/resource/category/${category}/1`,
+      canonical: `https://www.creevoxx.store/resource/category/${category}/1`,
     },
     robots: isFiltered
       ? { index: false, follow: true }

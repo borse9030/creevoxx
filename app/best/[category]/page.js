@@ -129,7 +129,7 @@ export async function generateMetadata({ params }) {
     title: `${data.title} - Top 10 Best Lists (2026)`,
     description: `Discover the top 10 list of ${data.h1.toLowerCase()}. Read reviews, details, and download directly. Hand-picked and manually tested for performance.`,
     alternates: {
-      canonical: `https://www.creevoxx.dev/best/${slug}`,
+      canonical: `https://www.creevoxx.store/best/${slug}`,
     },
   };
 }
@@ -159,8 +159,8 @@ export default async function BestOfPage({ params }) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.creevoxx.dev/" },
-      { "@type": "ListItem", position: 2, name: data.title, item: `https://www.creevoxx.dev/best/${slug}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.creevoxx.store/" },
+      { "@type": "ListItem", position: 2, name: data.title, item: `https://www.creevoxx.store/best/${slug}` },
     ],
   };
 
@@ -172,7 +172,7 @@ export default async function BestOfPage({ params }) {
     "itemListElement": resources.map((item, index) => ({
       "@type": "ListItem",
       "position": index + 1,
-      "url": `https://www.creevoxx.dev/resource/${item.id || item.docId}`
+      "url": `https://www.creevoxx.store/resource/${item.id || item.docId}`
     }))
   };
 

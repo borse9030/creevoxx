@@ -5,7 +5,7 @@ export const metadata = {
   description:
     "Browse all Minecraft resource categories — shaders for low-end PCs, Bedrock performance mods, PvP texture packs, RTX packs, and more. Updated for 1.21.",
   alternates: {
-    canonical: "https://www.creevoxx.dev/category/",
+    canonical: "https://www.creevoxx.store/category/",
   },
 };
 

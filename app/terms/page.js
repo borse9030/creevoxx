@@ -186,7 +186,7 @@ export default function TermsPage() {
             </li>
             <li style={{ marginBottom: "8px" }}>
               Reproduce, republish, or redistribute our editorial content (guides, curated collection descriptions,
-              original articles) without attribution and a link back to the original page on creevoxx.dev.
+              original articles) without attribution and a link back to the original page on creevoxx.store.
             </li>
             <li style={{ marginBottom: "8px" }}>
               Interfere with the proper functioning of the Site, its servers, or any connected networks.

@@ -261,16 +261,16 @@ export async function generateMetadata({ params }) {
     description: cfg.description,
     keywords: cfg.keywords,
     alternates: {
-      canonical: `https://www.creevoxx.dev/category/${slug}`,
+      canonical: `https://www.creevoxx.store/category/${slug}`,
     },
     openGraph: {
       title: cfg.h1,
       description: cfg.description,
-      url: `https://www.creevoxx.dev/category/${slug}`,
+      url: `https://www.creevoxx.store/category/${slug}`,
       type: "website",
       images: [
         {
-          url: "https://www.creevoxx.dev/og-default.png",
+          url: "https://www.creevoxx.store/og-default.png",
           width: 1200,
           height: 630,
           alt: cfg.title,
@@ -353,13 +353,13 @@ export default async function CategoryPage({ params }) {
             "@type": "CollectionPage",
             name: cfg.h1,
             description: cfg.description,
-            url: `https://creevoxx.dev/category/${slug}`,
+            url: `https://creevoxx.store/category/${slug}`,
             breadcrumb: {
               "@type": "BreadcrumbList",
               itemListElement: [
-                { "@type": "ListItem", position: 1, name: "Home", item: "https://creevoxx.dev/" },
-                { "@type": "ListItem", position: 2, name: "Categories", item: "https://creevoxx.dev/category/" },
-                { "@type": "ListItem", position: 3, name: cfg.title, item: `https://creevoxx.dev/category/${slug}` },
+                { "@type": "ListItem", position: 1, name: "Home", item: "https://creevoxx.store/" },
+                { "@type": "ListItem", position: 2, name: "Categories", item: "https://creevoxx.store/category/" },
+                { "@type": "ListItem", position: 3, name: cfg.title, item: `https://creevoxx.store/category/${slug}` },
               ],
             },
           }),

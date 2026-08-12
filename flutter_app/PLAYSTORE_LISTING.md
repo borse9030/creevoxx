@@ -43,12 +43,12 @@ MCPE Shaders and Textures is the fastest, cleanest way to discover and browse th
 The app caches browsed content locally, so your recently-viewed resources load instantly — even on slow connections.
 
 📱 BROWSE ON THE GO
-MCPE Shaders and Textures pairs with the creevoxx.dev website. Resources you find in the app share real links so you can install them on your PC or console too.
+MCPE Shaders and Textures pairs with the creevoxx.store website. Resources you find in the app share real links so you can install them on your PC or console too.
 
 🔒 YOUR PRIVACY
-We collect zero personal data. No account required. No sign-up. No tracking. The app only connects to the creevoxx.dev API to fetch resource listings. Local storage is used only for caching and your personal favorites list, and it never leaves your device.
-Privacy Policy: https://creevoxx.dev/privacy
-Terms of Service: https://creevoxx.dev/terms
+We collect zero personal data. No account required. No sign-up. No tracking. The app only connects to the creevoxx.store API to fetch resource listings. Local storage is used only for caching and your personal favorites list, and it never leaves your device.
+Privacy Policy: https://creevoxx.store/privacy
+Terms of Service: https://creevoxx.store/terms
 
 ---
 

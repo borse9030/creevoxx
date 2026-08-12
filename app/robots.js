@@ -10,9 +10,9 @@ export default function robots() {
     ],
     // Always point at the www-prefixed canonical URL.
     // This helps Googlebot resolve the canonical domain when both
-    // creevoxx.dev and www.creevoxx.dev are crawled.
-    sitemap: "https://www.creevoxx.dev/sitemap.xml",
-    host: "https://www.creevoxx.dev",
+    // creevoxx.store and www.creevoxx.store are crawled.
+    sitemap: "https://www.creevoxx.store/sitemap.xml",
+    host: "https://www.creevoxx.store",
   };
 }
 

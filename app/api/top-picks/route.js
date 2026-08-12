@@ -8,7 +8,7 @@ export async function GET(request) {
   const origin = request.headers.get("origin") || "";
   const referer = request.headers.get("referer") || "";
   const host = request.headers.get("host") || "";
-  const allowedHost = "creevoxx.dev";
+  const allowedHost = "creevoxx.store";
   const isBrowserOrigin =
     origin.includes(allowedHost) ||
     referer.includes(allowedHost) ||
@@ -81,7 +81,7 @@ export async function GET(request) {
 
       if (result) {
         // Inject custom thumbnail from our /public/thumbnails directory
-        const customThumbnail = `https://creevoxx.dev/thumbnails/${exactTopPicks[i].name.toLowerCase().replace(/ /g, '_')}.webp`;
+        const customThumbnail = `https://creevoxx.store/thumbnails/${exactTopPicks[i].name.toLowerCase().replace(/ /g, '_')}.webp`;
         result.thumbnail_url = customThumbnail;
       }
 

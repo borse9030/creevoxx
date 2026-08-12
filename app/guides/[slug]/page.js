@@ -19,18 +19,18 @@ export async function generateMetadata({ params }) {
     description: article.excerpt,
     robots: { index: true, follow: true },
     alternates: {
-      canonical: `https://www.creevoxx.dev/guides/${resolvedParams.slug}`,
+      canonical: `https://www.creevoxx.store/guides/${resolvedParams.slug}`,
     },
     openGraph: {
       title: `${article.title} | Creevoxx MC Mods`,
       description: article.excerpt,
       type: "article",
-      url: `https://www.creevoxx.dev/guides/${resolvedParams.slug}`,
+      url: `https://www.creevoxx.store/guides/${resolvedParams.slug}`,
       publishedTime: publishedIso,
-      authors: ["https://www.creevoxx.dev"],
+      authors: ["https://www.creevoxx.store"],
       images: [
         {
-          url: "https://www.creevoxx.dev/og-default.png",
+          url: "https://www.creevoxx.store/og-default.png",
           width: 1200,
           height: 630,
           alt: article.title,
@@ -41,7 +41,7 @@ export async function generateMetadata({ params }) {
       card: "summary_large_image",
       title: `${article.title} | Creevoxx MC Mods`,
       description: article.excerpt,
-      images: ["https://www.creevoxx.dev/og-default.png"],
+      images: ["https://www.creevoxx.store/og-default.png"],
     },
   };
 }
@@ -70,19 +70,19 @@ export default async function GuidePage({ params }) {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://www.creevoxx.dev/",
+        item: "https://www.creevoxx.store/",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Guides",
-        item: "https://www.creevoxx.dev/guides",
+        item: "https://www.creevoxx.store/guides",
       },
       {
         "@type": "ListItem",
         position: 3,
         name: article.title,
-        item: `https://www.creevoxx.dev/guides/${article.slug}`,
+        item: `https://www.creevoxx.store/guides/${article.slug}`,
       },
     ],
   };
@@ -103,26 +103,26 @@ export default async function GuidePage({ params }) {
     author: {
       "@type": "Organization",
       name: "Creevoxx MC Mods",
-      url: "https://www.creevoxx.dev",
+      url: "https://www.creevoxx.store",
     },
     publisher: {
       "@type": "Organization",
       name: "Creevoxx MC Mods",
-      url: "https://www.creevoxx.dev",
+      url: "https://www.creevoxx.store",
       logo: {
         "@type": "ImageObject",
-        url: "https://www.creevoxx.dev/og-default.png",
+        url: "https://www.creevoxx.store/og-default.png",
         width: 1200,
         height: 630,
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://www.creevoxx.dev/guides/${article.slug}`,
+      "@id": `https://www.creevoxx.store/guides/${article.slug}`,
     },
     image: {
       "@type": "ImageObject",
-      url: "https://www.creevoxx.dev/og-default.png",
+      url: "https://www.creevoxx.store/og-default.png",
       width: 1200,
       height: 630,
     },

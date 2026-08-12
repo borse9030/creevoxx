@@ -14,7 +14,7 @@ export async function POST(request) {
       return NextResponse.json({ error: "IndexNow API Key not configured on server" }, { status: 500 });
     }
 
-    const host = "creevoxx.dev";
+    const host = "creevoxx.store";
     const payload = {
       host: host,
       key: apiKey,

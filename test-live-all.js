@@ -10,8 +10,8 @@ async function run() {
     "R135 Shader RD",
   ];
   for (const q of exactGridPicks) {
-    const res = await fetch(`https://creevoxx.dev/api/search?q=${encodeURIComponent(q)}&category=shaders&edition=bedrock`, {
-      headers: { 'x-app-secret': 'f1ac035355ad02ce3f1714d2137627975ed94dd76bea068d01ead49b8895cd11', 'Host': 'creevoxx.dev' }
+    const res = await fetch(`https://creevoxx.store/api/search?q=${encodeURIComponent(q)}&category=shaders&edition=bedrock`, {
+      headers: { 'x-app-secret': 'f1ac035355ad02ce3f1714d2137627975ed94dd76bea068d01ead49b8895cd11', 'Host': 'creevoxx.store' }
     });
     const data = await res.json();
     if (data.data && data.data.length > 0) {

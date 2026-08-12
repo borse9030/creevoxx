@@ -17,7 +17,7 @@ const out = ids.map(x => {
           description: "A great shader for Minecraft Bedrock.",
           category: "shaders",
           version: "1.21",
-          thumbnail_url: "${x.file ? 'https://creevoxx.dev/thumbnails/'+x.file+'.webp' : x.fallbackImg}",
+          thumbnail_url: "${x.file ? 'https://creevoxx.store/thumbnails/'+x.file+'.webp' : x.fallbackImg}",
           author: "creator",
           download_count: 50000,
           dateModified: new Date().toISOString(),
