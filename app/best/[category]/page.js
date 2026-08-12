@@ -155,8 +155,37 @@ export default async function BestOfPage({ params }) {
     console.error(`Failed to fetch Best-Of landing page resources for slug ${slug}:`, err);
   }
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.creevoxx.dev/" },
+      { "@type": "ListItem", position: 2, name: data.title, item: `https://www.creevoxx.dev/best/${slug}` },
+    ],
+  };
+
+  const itemListJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": data.h1,
+    "description": data.intro,
+    "itemListElement": resources.map((item, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "url": `https://www.creevoxx.dev/resource/${item.id || item.docId}`
+    }))
+  };
+
   return (
     <div style={{ maxWidth: "1200px", margin: "40px auto", padding: "0 24px" }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
+      />
       {/* Dynamic SEO H1 & Header */}
       <div style={{ marginBottom: "32px", borderBottom: "1px solid var(--color-border)", paddingBottom: "24px" }}>
         <h1 style={{ fontSize: "2.5rem", color: "var(--color-accent)", marginBottom: "16px", fontFamily: "var(--font-heading)" }}>

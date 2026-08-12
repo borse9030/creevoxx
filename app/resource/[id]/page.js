@@ -340,6 +340,27 @@ export default async function ResourceDetailPage({ params }) {
           { "@type": "ListItem", "position": 3, "name": details.name || resource.title },
         ],
       },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": `How do I install ${details.name || resource.title}?`,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": `To install ${details.name || resource.title}, first ensure you have the required modloader or client installed for Minecraft ${details.gameVersions?.[0] || resource.version || "1.21"}. Download the file from the official links provided and place it in your Minecraft 'mods' or 'resourcepacks' folder.`
+            }
+          },
+          {
+            "@type": "Question",
+            "name": `What version of Minecraft is ${details.name || resource.title} for?`,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": `${details.name || resource.title} natively supports Minecraft version ${details.gameVersions?.[0] || resource.version || "1.21"}. Always check the file details for backward compatibility.`
+            }
+          }
+        ]
+      }
     ],
   };
 

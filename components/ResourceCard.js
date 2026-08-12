@@ -236,12 +236,15 @@ export default function ResourceCard({ resource, searchQuery = "", priority = fa
       scroll={true}
       {...(!isWhitelisted ? { rel: "nofollow" } : {})}
     >
+      <article itemScope itemType="https://schema.org/SoftwareApplication" style={{ display: 'contents' }}>
+        <meta itemProp="applicationCategory" content="GameApplication" />
       {/* -- Mobile UI (matches mhcard) -- */}
       <div className="resource-card-mobile-layout">
         {thumbnail_url && !imgError ? (
           <Image
             src={thumbnail_url}
             alt={`${title} for Minecraft ${version || "1.21"} — ${categoryLabel} screenshot`}
+            title={`${title} for Minecraft ${version || "1.21"} — ${categoryLabel} screenshot`}
             className="mhcard-img"
             fill
             sizes="(max-width: 768px) 100vw, 300px"
@@ -309,6 +312,7 @@ export default function ResourceCard({ resource, searchQuery = "", priority = fa
             <Image
               src={thumbnail_url}
               alt={`${title} for Minecraft ${version || "1.21"} — ${categoryLabel} screenshot`}
+              title={`${title} for Minecraft ${version || "1.21"} — ${categoryLabel} screenshot`}
               className="resource-card__thumb"
               fill
               sizes="(max-width: 768px) 100vw, 300px"
@@ -477,7 +481,7 @@ export default function ResourceCard({ resource, searchQuery = "", priority = fa
           </span>
         </div>
       </div>
-      </div>
+      </article>
     </Link>
   );
 }

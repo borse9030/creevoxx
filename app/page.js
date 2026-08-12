@@ -40,8 +40,14 @@ export async function generateMetadata({ searchParams }) {
     ? `https://www.creevoxx.dev/?category=${category}` 
     : "https://www.creevoxx.dev/";
 
+  let dynamicTitle = "Creevoxx — Best Minecraft Shaders, Texture Packs & Mods";
+  if (category === "shaders") dynamicTitle = "Best Minecraft Shaders | Creevoxx";
+  else if (category === "textures") dynamicTitle = "Best Minecraft Texture Packs | Creevoxx";
+  else if (category === "mods") dynamicTitle = "Best Minecraft Mods | Creevoxx";
+  if (q) dynamicTitle = `Search Results for "${q}" | Creevoxx`;
+
   return {
-    title: "Creevoxx — Best Minecraft Shaders, Texture Packs & Mods",
+    title: dynamicTitle,
     description: "Discover the best Minecraft shaders, texture packs, and mods for Java, Bedrock, and MCPE. Featuring low-end shaders, RTX packs, PvP texture packs, and top mods for Minecraft 1.21. Curated links to CurseForge.",
     keywords: "minecraft shaders, minecraft mods, minecraft texture packs, minecraft resource packs, low end shaders, RTX texture packs, PvP texture packs, BSL shaders, Sodium, Bedrock mods, MCPE shaders, minecraft 1.21",
     alternates: {

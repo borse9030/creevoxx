@@ -15,15 +15,15 @@ export const metadata = {
     template: "%s | Creevoxx",
   },
   description:
-    "Discover the best Minecraft shaders, texture packs, and mods for Java and Bedrock. Optimize your performance with curated, tested assets.",
+    "Discover the best Minecraft shaders at Creevoxx. From low end Minecraft shaders for 2GB RAM to RTX Minecraft shaders, and Minecraft shaders for Pocket Edition (MCPE). Optimize your FPS today.",
   keywords:
-    "minecraft shaders, minecraft mods, minecraft texture packs, minecraft resource packs, BSL shaders, Sodium, Create mod",
+    "minecraft shaders, shaders for minecraft, minecraft shaders for pocket edition, low end minecraft shaders, 2gb ram minecraft shaders, rtx minecraft shader, creevoxx, minecraft texture packs, minecraft mods",
   alternates: {
     canonical: "https://www.creevoxx.dev",
   },
   openGraph: {
     title: "Creevoxx — Minecraft Shaders, Texture Packs & Mods",
-    description: "The ultimate curated Minecraft resource hub.",
+    description: "Discover the best Minecraft shaders at Creevoxx. From low end Minecraft shaders for 2GB RAM to RTX Minecraft shaders, and Minecraft shaders for Pocket Edition (MCPE).",
     type: "website",
     url: "https://www.creevoxx.dev",
     images: [
@@ -38,13 +38,19 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Creevoxx - Best Minecraft Shaders, Textures & Mods",
-    description: "Discover the best Minecraft shaders, texture packs, and mods for Java and Bedrock. Optimize your performance with curated, tested assets.",
+    description: "Discover the best Minecraft shaders at Creevoxx. From low end Minecraft shaders for 2GB RAM to RTX Minecraft shaders, and Minecraft shaders for Pocket Edition (MCPE).",
     images: ["https://www.creevoxx.dev/og-default.png"],
   },
   icons: {
     icon: "/favicon.png",
     shortcut: "/favicon.png",
     apple: "/favicon.png",
+  },
+  verification: {
+    google: [
+      "0RTOjPLkXdkNGYWxUJbtRUaGGVTjRiTSpp0qC3a_s2A",
+      "4M6kXhti4CzRP22wdAIhGdjt-Mlx_17q42HfxA1dx24"
+    ]
   },
 };
 
@@ -54,23 +60,34 @@ export default function RootLayout({ children }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover" />
-        <meta name="google-site-verification" content="0RTOjPLkXdkNGYWxUJbtRUaGGVTjRiTSpp0qC3a_s2A" />
-        <meta name="google-site-verification" content="4M6kXhti4CzRP22wdAIhGdjt-Mlx_17q42HfxA1dx24" />
         <meta name="monetag" content="559413adb7cf25d9abaec9f79fe34bba" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              "name": "Creevoxx",
-              "url": "https://www.creevoxx.dev/",
-              "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https://www.creevoxx.dev/?q={search_term_string}",
-                "query-input": "required name=search_term_string"
+            __html: JSON.stringify([
+              {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "Creevoxx",
+                "url": "https://www.creevoxx.dev/",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": "https://www.creevoxx.dev/?q={search_term_string}",
+                  "query-input": "required name=search_term_string"
+                }
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Creevoxx",
+                "url": "https://www.creevoxx.dev/",
+                "logo": "https://www.creevoxx.dev/logo.png",
+                "sameAs": [
+                  "https://youtube.com/@creevoxx?si=6an4S31derNpahWX",
+                  "https://www.instagram.com/creevoxx_shorts/"
+                ]
               }
-            })
+            ])
           }}
         />
         <Script
