@@ -1,0 +1,815 @@
+{
+  "id": "1273000",
+  "curseforge_id": 1273000,
+  "title": "Night Vision Universal | Night vision",
+  "description": "Night Vision Pack for Minecraft without turning off achievements  by. Enjoy full brightness anywhere—no potions needed! Perfect for caves, night, and underwater. ",
+  "category": "shaders",
+  "version": "1.21.30",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1465/938/256/256/638951660071232414.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1465/938/638951660071232414.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/night-vision-for-minecraft",
+  "author": "RisabGamerz",
+  "download_count": 1706548,
+  "dateModified": "2026-07-04T12:38:15.66Z",
+  "name": "Night Vision Universal | Night vision",
+  "summary": "Night Vision Pack for Minecraft without turning off achievements  by. Enjoy full brightness anywhere—no potions needed! Perfect for caves, night, and underwater. ",
+  "authors": [
+    {
+      "id": 124830131,
+      "name": "RisabGamerz",
+      "url": "https://www.curseforge.com/members/risabgamerz",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1403/456/638909646127614941.jpeg"
+    }
+  ],
+  "downloadCount": 1706548,
+  "dateCreated": "2025-05-25T12:50:20.027Z",
+  "screenshots": [
+    {
+      "id": 1381346,
+      "modId": 1273000,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1381/346/310/172/1000737337-jpg.jpg",
+      "url": "https://media.forgecdn.net/attachments/1381/346/1000737337-jpg.jpg"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8363/666/Night%20vision%20v2.5.5%20Stable.mcpack",
+  "fileSize": "56.24 KB"
+}
+{
+  "id": "1382066",
+  "curseforge_id": 1382066,
+  "title": "BSLB Shaders Bedrock - Classic V3",
+  "description": "BSLB Shaders Bedrock is a Vibrant Visuals Pack for Minecraft Bedrock",
+  "category": "shaders",
+  "version": "1.21.120",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1516/99/256/256/638984571285412329.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1516/99/638984571285412329.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/bsl-shaders-bedrock",
+  "author": "HoneyStudios",
+  "download_count": 1155362,
+  "dateModified": "2026-07-11T15:09:05.287Z",
+  "name": "BSLB Shaders Bedrock - Classic V3",
+  "summary": "BSLB Shaders Bedrock is a Vibrant Visuals Pack for Minecraft Bedrock",
+  "authors": [
+    {
+      "id": 131970763,
+      "name": "HoneyStudios",
+      "url": "https://www.curseforge.com/members/honeystudios",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1547/312/639004152719813869.jpeg"
+    }
+  ],
+  "downloadCount": 1155362,
+  "dateCreated": "2025-11-11T11:11:03.177Z",
+  "screenshots": [
+    {
+      "id": 1786875,
+      "modId": 1382066,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1786/875/310/172/picsart_25-11-05_10-25-07-161-png.png",
+      "url": "https://media.forgecdn.net/attachments/1786/875/picsart_25-11-05_10-25-07-161-png.png"
+    },
+    {
+      "id": 1550547,
+      "modId": 1382066,
+      "title": "BSL Shaders Bedrock - Classic",
+      "description": "BSLB Shaders Bedrock - Classic",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1550/547/310/172/1-png.png",
+      "url": "https://media.forgecdn.net/attachments/1550/547/1-png.png"
+    },
+    {
+      "id": 1550548,
+      "modId": 1382066,
+      "title": "BSLB Shaders Bedrock - Classic",
+      "description": "BSLB Shaders Bedrock - Classic",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1550/548/310/172/3-png.png",
+      "url": "https://media.forgecdn.net/attachments/1550/548/3-png.png"
+    },
+    {
+      "id": 1749911,
+      "modId": 1382066,
+      "title": "BSLB Shaders Bedrock - Classic",
+      "description": "BSLB Shaders Bedrock - Classic",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1749/911/310/172/screenshot-2026-06-22-102023-png.png",
+      "url": "https://media.forgecdn.net/attachments/1749/911/screenshot-2026-06-22-102023-png.png"
+    },
+    {
+      "id": 1387790,
+      "modId": 1382066,
+      "title": "BSLB Shaders Bedrock - Classic",
+      "description": "BSLB Shaders Bedrock - Classic",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1387/790/310/172/picsart_25-11-05_10-14-22-666-jpg.jpg",
+      "url": "https://media.forgecdn.net/attachments/1387/790/picsart_25-11-05_10-14-22-666-jpg.jpg"
+    },
+    {
+      "id": 1550552,
+      "modId": 1382066,
+      "title": "BSLB Shaders Bedrock - Classic",
+      "description": "BSLB Shaders Bedrock - Classic",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1550/552/310/172/5-png.png",
+      "url": "https://media.forgecdn.net/attachments/1550/552/5-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8412/972/Vibrant%20BSLB%20Visuals%20v3.1.0.mcpack",
+  "fileSize": "9.58 MB"
+}
+{
+  "id": "1238974",
+  "curseforge_id": 1238974,
+  "title": "RG Shader | Renderdragon Shaders",
+  "description": "Best Non-patch Shader for MCPE & Bedrock! . Realistic fog, Godrays , waving leaves/water, smooth lighting , Better  & no lag on low-end devices. Renderdragon compatible. Boost visuals without hurting performance!",
+  "category": "shaders",
+  "version": "1.21.30",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1698/759/256/256/639078761433023568_animated.gif",
+  "logoUrl": "https://media.forgecdn.net/avatars/1698/759/639078761433023568.gif",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/rg-shader-v2-1-renderdragon-support-2",
+  "author": "RisabGamerz",
+  "download_count": 912022,
+  "dateModified": "2026-06-19T08:41:52.363Z",
+  "name": "RG Shader | Renderdragon Shaders",
+  "summary": "Best Non-patch Shader for MCPE & Bedrock! . Realistic fog, Godrays , waving leaves/water, smooth lighting , Better  & no lag on low-end devices. Renderdragon compatible. Boost visuals without hurting performance!",
+  "authors": [
+    {
+      "id": 124830131,
+      "name": "RisabGamerz",
+      "url": "https://www.curseforge.com/members/risabgamerz",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1403/456/638909646127614941.jpeg"
+    }
+  ],
+  "downloadCount": 912022,
+  "dateCreated": "2025-04-10T13:17:41.6Z",
+  "screenshots": [
+    {
+      "id": 1557626,
+      "modId": 1238974,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1557/626/310/172/1000981274-gif.gif",
+      "url": "https://media.forgecdn.net/attachments/1557/626/1000981274-gif.gif"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8272/102/RG%20SHADER%20v.3.7.mcpack",
+  "fileSize": "4.57 MB"
+}
+{
+  "id": "1370864",
+  "curseforge_id": 1370864,
+  "title": "Glowing Ores Pack | Realistic Glow, Bright Caves, Smooth Lighting",
+  "description": "Make your caves shine! This pack adds glowing ores with realistic lighting, enhancing cave exploration while keeping performance smooth and lag-free.",
+  "category": "shaders",
+  "version": "1.21.93",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1559/864/256/256/639012209904271753.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1559/864/639012209904271753.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-ores-pack-realistic-glow-bright-caves",
+  "author": "HoneyStudios",
+  "download_count": 467852,
+  "dateModified": "2026-07-08T11:33:33.017Z",
+  "name": "Glowing Ores Pack | Realistic Glow, Bright Caves, Smooth Lighting",
+  "summary": "Make your caves shine! This pack adds glowing ores with realistic lighting, enhancing cave exploration while keeping performance smooth and lag-free.",
+  "authors": [
+    {
+      "id": 131970763,
+      "name": "HoneyStudios",
+      "url": "https://www.curseforge.com/members/honeystudios",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1547/312/639004152719813869.jpeg"
+    }
+  ],
+  "downloadCount": 467852,
+  "dateCreated": "2025-10-23T12:43:40.28Z",
+  "screenshots": [
+    {
+      "id": 1367256,
+      "modId": 1370864,
+      "title": "MCPEDL",
+      "description": "GLOWING ORES.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1367/256/310/172/glowing-ores-png.png",
+      "url": "https://media.forgecdn.net/attachments/1367/256/glowing-ores-png.png"
+    },
+    {
+      "id": 1367257,
+      "modId": 1370864,
+      "title": "Before And After",
+      "description": "Glowing ore.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1367/257/310/172/glowing-ore-png.png",
+      "url": "https://media.forgecdn.net/attachments/1367/257/glowing-ore-png.png"
+    },
+    {
+      "id": 1423681,
+      "modId": 1370864,
+      "title": "Outlined Glowing Ores Supack",
+      "description": "Outlined Glowing Ores Supack",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1423/681/310/172/screenshot-2025-12-13-163014-png.png",
+      "url": "https://media.forgecdn.net/attachments/1423/681/screenshot-2025-12-13-163014-png.png"
+    },
+    {
+      "id": 1744210,
+      "modId": 1370864,
+      "title": "Outline Glowing Ores",
+      "description": "Outline Glowing Ores",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1744/210/310/172/screenshot-2026-06-19-192000-png.png",
+      "url": "https://media.forgecdn.net/attachments/1744/210/screenshot-2026-06-19-192000-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8393/9/Glowing%20Ores%20v2.3.0.mcpack",
+  "fileSize": "224.36 KB"
+}
+{
+  "id": "1301347",
+  "curseforge_id": 1301347,
+  "title": "Xiao Reimagined Shader - Reborn",
+  "description": "Xiao Reimagined delivers stunning atmospheric lighting with purple-hued skies, golden hour sunsets, deep blue nights, and immersive volumetric fog for Vibrant Visuals mode.",
+  "category": "shaders",
+  "version": "1.21.120",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1748/87/256/256/639112449885816865.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1748/87/639112449885816865.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/xiao-reimagined-shader",
+  "author": "XiaoCraft",
+  "download_count": 344051,
+  "dateModified": "2026-07-14T14:08:51.617Z",
+  "name": "Xiao Reimagined Shader - Reborn",
+  "summary": "Xiao Reimagined delivers stunning atmospheric lighting with purple-hued skies, golden hour sunsets, deep blue nights, and immersive volumetric fog for Vibrant Visuals mode.",
+  "authors": [
+    {
+      "id": 121985374,
+      "name": "XiaoCraft",
+      "url": "https://www.curseforge.com/members/xiaocraft",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1390/735/638901692264540490.png"
+    }
+  ],
+  "downloadCount": 344051,
+  "dateCreated": "2025-07-06T12:24:42.58Z",
+  "screenshots": [
+    {
+      "id": 1621345,
+      "modId": 1301347,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1621/345/310/172/xiao-remagined-banner-png.png",
+      "url": "https://media.forgecdn.net/attachments/1621/345/xiao-remagined-banner-png.png"
+    },
+    {
+      "id": 1621346,
+      "modId": 1301347,
+      "title": "Golden Sunrise",
+      "description": "Golden Sunrise",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1621/346/310/172/1-png.png",
+      "url": "https://media.forgecdn.net/attachments/1621/346/1-png.png"
+    },
+    {
+      "id": 1621348,
+      "modId": 1301347,
+      "title": "Cherry Blossom Sunset",
+      "description": "Cherry Blossom Sunset",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1621/348/310/172/2-png.png",
+      "url": "https://media.forgecdn.net/attachments/1621/348/2-png.png"
+    },
+    {
+      "id": 1621354,
+      "modId": 1301347,
+      "title": "Sunset Horizon Reflection",
+      "description": "Sunset Horizon Reflection",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1621/354/310/172/3-png.png",
+      "url": "https://media.forgecdn.net/attachments/1621/354/3-png.png"
+    },
+    {
+      "id": 1621355,
+      "modId": 1301347,
+      "title": "Rich blue moonlit nights",
+      "description": "Rich blue moonlit nights",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1621/355/310/172/4-png.png",
+      "url": "https://media.forgecdn.net/attachments/1621/355/4-png.png"
+    },
+    {
+      "id": 1621356,
+      "modId": 1301347,
+      "title": "Nether",
+      "description": "Nether",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1621/356/310/172/5-png.png",
+      "url": "https://media.forgecdn.net/attachments/1621/356/5-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8430/966/Xiao%20Reimagined%20v3.5.0.mcpack",
+  "fileSize": "12.39 MB"
+}
+{
+  "id": "1272636",
+  "curseforge_id": 1272636,
+  "title": "Extreme Shader | Shader",
+  "description": "Extreme Shader ,Experience ultra-realistic water, vibrant color grading, and cinematic lighting for a bold, lifelike world! enhanced sun and moon, and a truly immersive atmosphere with PBR textures",
+  "category": "shaders",
+  "version": "1.21.81",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1526/674/256/256/638991454297504929.jpg",
+  "logoUrl": "https://media.forgecdn.net/avatars/1526/674/638991454297504929.jpg",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/vibrant-visuals-extreme",
+  "author": "RisabGamerz",
+  "download_count": 282557,
+  "dateModified": "2026-07-12T03:01:25.9Z",
+  "name": "Extreme Shader | Shader",
+  "summary": "Extreme Shader ,Experience ultra-realistic water, vibrant color grading, and cinematic lighting for a bold, lifelike world! enhanced sun and moon, and a truly immersive atmosphere with PBR textures",
+  "authors": [
+    {
+      "id": 124830131,
+      "name": "RisabGamerz",
+      "url": "https://www.curseforge.com/members/risabgamerz",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1403/456/638909646127614941.jpeg"
+    }
+  ],
+  "downloadCount": 282557,
+  "dateCreated": "2025-05-25T12:49:53.42Z",
+  "screenshots": [
+    {
+      "id": 1397821,
+      "modId": 1272636,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1397/821/310/172/1000767323-jpg.jpg",
+      "url": "https://media.forgecdn.net/attachments/1397/821/1000767323-jpg.jpg"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/7873/427/Vibrant%20Visuals%20Extreme%20v2.4.8.mcpack",
+  "fileSize": "3.21 MB"
+}
+{
+  "id": "1308435",
+  "curseforge_id": 1308435,
+  "title": "Xiao Sakura Shader V4",
+  "description": "Realistic Minecraft Bedrock shader built for Vibrant Visuals, blending cherry blossom aesthetics.",
+  "category": "shaders",
+  "version": "1.21.120",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1599/995/256/256/639033854379882112.jpg",
+  "logoUrl": "https://media.forgecdn.net/avatars/1599/995/639033854379882112.jpg",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/xiao-sakura-shader",
+  "author": "XiaoCraft",
+  "download_count": 233812,
+  "dateModified": "2026-07-20T14:02:41.343Z",
+  "name": "Xiao Sakura Shader V4",
+  "summary": "Realistic Minecraft Bedrock shader built for Vibrant Visuals, blending cherry blossom aesthetics.",
+  "authors": [
+    {
+      "id": 121985374,
+      "name": "XiaoCraft",
+      "url": "https://www.curseforge.com/members/xiaocraft",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1390/735/638901692264540490.png"
+    }
+  ],
+  "downloadCount": 233812,
+  "dateCreated": "2025-07-18T08:00:05.703Z",
+  "screenshots": [
+    {
+      "id": 1586839,
+      "modId": 1308435,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1586/839/310/172/xiao-sakura-shader-banner-gif.gif",
+      "url": "https://media.forgecdn.net/attachments/1586/839/xiao-sakura-shader-banner-gif.gif"
+    },
+    {
+      "id": 1770423,
+      "modId": 1308435,
+      "title": "Xiao Sakura Shader",
+      "description": "Xiao Sakura Shader",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1770/423/310/172/screenshot-2026-07-03-173558-png.png",
+      "url": "https://media.forgecdn.net/attachments/1770/423/screenshot-2026-07-03-173558-png.png"
+    },
+    {
+      "id": 1545349,
+      "modId": 1308435,
+      "title": "Xiao Sakura Shader",
+      "description": "Xiao Sakura Shader",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1545/349/310/172/screenshot-2026-02-21-131840-png.png",
+      "url": "https://media.forgecdn.net/attachments/1545/349/screenshot-2026-02-21-131840-png.png"
+    },
+    {
+      "id": 1770418,
+      "modId": 1308435,
+      "title": "Xiao Sakura Shader",
+      "description": "Xiao Sakura Shader",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1770/418/310/172/screenshot-2026-07-03-165313-png.png",
+      "url": "https://media.forgecdn.net/attachments/1770/418/screenshot-2026-07-03-165313-png.png"
+    },
+    {
+      "id": 1770421,
+      "modId": 1308435,
+      "title": "Xiao Sakura Shader",
+      "description": "Xiao Sakura Shader",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1770/421/310/172/screenshot-2026-07-03-173051-png.png",
+      "url": "https://media.forgecdn.net/attachments/1770/421/screenshot-2026-07-03-173051-png.png"
+    },
+    {
+      "id": 1490420,
+      "modId": 1308435,
+      "title": "Xiao Sakura Shader",
+      "description": "Xiao Sakura Shader",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1490/420/310/172/screenshot-2026-01-24-150057-png.png",
+      "url": "https://media.forgecdn.net/attachments/1490/420/screenshot-2026-01-24-150057-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8471/738/Xiao%20Sakura%20Shader%20v4.0.0.mcpack",
+  "fileSize": "5.76 MB"
+}
+{
+  "id": "1440835",
+  "curseforge_id": 1440835,
+  "title": "Enhanced Fog",
+  "description": "Enhanced Fog adds sunrays and cinematic fog to Minecraft Bedrock For Vibrant Visuals.",
+  "category": "shaders",
+  "version": "1.21.93",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1634/590/256/256/639046967385038376.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1634/590/639046967385038376.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enhanced-fog",
+  "author": "HoneyStudios",
+  "download_count": 199723,
+  "dateModified": "2026-07-06T11:42:47.577Z",
+  "name": "Enhanced Fog",
+  "summary": "Enhanced Fog adds sunrays and cinematic fog to Minecraft Bedrock For Vibrant Visuals.",
+  "authors": [
+    {
+      "id": 131970763,
+      "name": "HoneyStudios",
+      "url": "https://www.curseforge.com/members/honeystudios",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1547/312/639004152719813869.jpeg"
+    }
+  ],
+  "downloadCount": 199723,
+  "dateCreated": "2026-01-23T10:18:10.597Z",
+  "screenshots": [
+    {
+      "id": 1552585,
+      "modId": 1440835,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1552/585/310/172/picsart_26-02-25_18-22-10-953-png.png",
+      "url": "https://media.forgecdn.net/attachments/1552/585/picsart_26-02-25_18-22-10-953-png.png"
+    },
+    {
+      "id": 1552574,
+      "modId": 1440835,
+      "title": "1.png",
+      "description": "1.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1552/574/310/172/screenshot-2026-02-25-180416-png.png",
+      "url": "https://media.forgecdn.net/attachments/1552/574/screenshot-2026-02-25-180416-png.png"
+    },
+    {
+      "id": 1552577,
+      "modId": 1440835,
+      "title": "2.png",
+      "description": "2.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1552/577/310/172/2-png.png",
+      "url": "https://media.forgecdn.net/attachments/1552/577/2-png.png"
+    },
+    {
+      "id": 1552581,
+      "modId": 1440835,
+      "title": "3.png",
+      "description": "3.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1552/581/310/172/3-png.png",
+      "url": "https://media.forgecdn.net/attachments/1552/581/3-png.png"
+    },
+    {
+      "id": 1552582,
+      "modId": 1440835,
+      "title": "4.png",
+      "description": "4.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1552/582/310/172/4-png.png",
+      "url": "https://media.forgecdn.net/attachments/1552/582/4-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8380/627/Enhanced%20Fog%20v2.1.0.mcpack",
+  "fileSize": "604.74 KB"
+}
+{
+  "id": "1372013",
+  "curseforge_id": 1372013,
+  "title": "Animated  XP Bars",
+  "description": "Animated XP Bars featuring smooth, animated colors and a modern minimalist glow for a clean, immersive experience.",
+  "category": "shaders",
+  "version": "1.21.30",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1696/617/256/256/639077205019049744.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1696/617/639077205019049744.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-xp-bars",
+  "author": "HoneyStudios",
+  "download_count": 177406,
+  "dateModified": "2026-07-19T14:39:30.763Z",
+  "name": "Animated  XP Bars",
+  "summary": "Animated XP Bars featuring smooth, animated colors and a modern minimalist glow for a clean, immersive experience.",
+  "authors": [
+    {
+      "id": 131970763,
+      "name": "HoneyStudios",
+      "url": "https://www.curseforge.com/members/honeystudios",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1547/312/639004152719813869.jpeg"
+    }
+  ],
+  "downloadCount": 177406,
+  "dateCreated": "2025-10-25T12:21:40.11Z",
+  "screenshots": [
+    {
+      "id": 1528131,
+      "modId": 1372013,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1528/131/310/172/0211-gif.gif",
+      "url": "https://media.forgecdn.net/attachments/1528/131/0211-gif.gif"
+    }
+  ],
+  "gameVersions": [
+    "1.21.130",
+    "1.21.120",
+    "1.21.100",
+    "1.21.90",
+    "1.21.80",
+    "1.21.70"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8465/214/Animated%20XP%20Bars%20v1.9.0.mcpack",
+  "fileSize": "458.18 KB"
+}
+{
+  "id": "1326343",
+  "curseforge_id": 1326343,
+  "title": "Refined Deferred (Vibrant Visuals Pack)",
+  "description": " A dreamy pink tinted shader pack for Minecraft Bedrock, wrapping every biome in warm fog, soft god rays, and vibrant cinematic lighting.",
+  "category": "shaders",
+  "version": "1.21.120",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1904/230/256/256/639189366040843789.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1904/230/639189366040843789.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/refined-deferred-vibrant-visuals-pack",
+  "author": "XiaoCraft",
+  "download_count": 170912,
+  "dateModified": "2026-07-24T11:37:14.88Z",
+  "name": "Refined Deferred (Vibrant Visuals Pack)",
+  "summary": " A dreamy pink tinted shader pack for Minecraft Bedrock, wrapping every biome in warm fog, soft god rays, and vibrant cinematic lighting.",
+  "authors": [
+    {
+      "id": 121985374,
+      "name": "XiaoCraft",
+      "url": "https://www.curseforge.com/members/xiaocraft",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1390/735/638901692264540490.png"
+    }
+  ],
+  "downloadCount": 170912,
+  "dateCreated": "2025-08-13T12:35:53.417Z",
+  "screenshots": [
+    {
+      "id": 1776368,
+      "modId": 1326343,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1776/368/310/172/refined-deferred-banner-png.png",
+      "url": "https://media.forgecdn.net/attachments/1776/368/refined-deferred-banner-png.png"
+    },
+    {
+      "id": 1776369,
+      "modId": 1326343,
+      "title": "1.png",
+      "description": "1.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1776/369/310/172/1-png.png",
+      "url": "https://media.forgecdn.net/attachments/1776/369/1-png.png"
+    },
+    {
+      "id": 1776370,
+      "modId": 1326343,
+      "title": "2.png",
+      "description": "2.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1776/370/310/172/2-png.png",
+      "url": "https://media.forgecdn.net/attachments/1776/370/2-png.png"
+    },
+    {
+      "id": 1776372,
+      "modId": 1326343,
+      "title": "3.png",
+      "description": "3.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1776/372/310/172/3-png.png",
+      "url": "https://media.forgecdn.net/attachments/1776/372/3-png.png"
+    },
+    {
+      "id": 1776374,
+      "modId": 1326343,
+      "title": "4.png",
+      "description": "4.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1776/374/310/172/4-png.png",
+      "url": "https://media.forgecdn.net/attachments/1776/374/4-png.png"
+    },
+    {
+      "id": 1776375,
+      "modId": 1326343,
+      "title": "5.png",
+      "description": "5.png",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1776/375/310/172/5-png.png",
+      "url": "https://media.forgecdn.net/attachments/1776/375/5-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8499/309/Refined%20Deferred%20v3.1.0.mcpack",
+  "fileSize": "4.70 MB"
+}
+{
+  "id": "1312087",
+  "curseforge_id": 1312087,
+  "title": "NovaFX Visuals",
+  "description": "NovaFX brings smooth bloom, vibrant colors, and immersive atmosphere to Minecraft Bedrock.",
+  "category": "shaders",
+  "version": "1.21.120",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/thumbnails/1902/293/256/256/639188482926452098.png",
+  "logoUrl": "https://media.forgecdn.net/avatars/1902/293/639188482926452098.png",
+  "curseforge_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/novafx-shader",
+  "author": "XiaoCraft",
+  "download_count": 161250,
+  "dateModified": "2026-07-23T11:54:19.947Z",
+  "name": "NovaFX Visuals",
+  "summary": "NovaFX brings smooth bloom, vibrant colors, and immersive atmosphere to Minecraft Bedrock.",
+  "authors": [
+    {
+      "id": 121985374,
+      "name": "XiaoCraft",
+      "url": "https://www.curseforge.com/members/xiaocraft",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1390/735/638901692264540490.png"
+    }
+  ],
+  "downloadCount": 161250,
+  "dateCreated": "2025-07-23T09:18:02.607Z",
+  "screenshots": [
+    {
+      "id": 1740550,
+      "modId": 1312087,
+      "title": "MCPEDL",
+      "description": "MCPEDL",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1740/550/310/172/novafx-png.png",
+      "url": "https://media.forgecdn.net/attachments/1740/550/novafx-png.png"
+    },
+    {
+      "id": 1740554,
+      "modId": 1312087,
+      "title": "Taiga",
+      "description": "Taiga",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1740/554/310/172/1-png.png",
+      "url": "https://media.forgecdn.net/attachments/1740/554/1-png.png"
+    },
+    {
+      "id": 1740555,
+      "modId": 1312087,
+      "title": "Birch Forest",
+      "description": "Birch Forest",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1740/555/310/172/2-png.png",
+      "url": "https://media.forgecdn.net/attachments/1740/555/2-png.png"
+    },
+    {
+      "id": 1740559,
+      "modId": 1312087,
+      "title": "Cherry Grove",
+      "description": "Cherry Grove",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1740/559/310/172/3-png.png",
+      "url": "https://media.forgecdn.net/attachments/1740/559/3-png.png"
+    },
+    {
+      "id": 1740560,
+      "modId": 1312087,
+      "title": "Swampland",
+      "description": "Swampland",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1740/560/310/172/4-png.png",
+      "url": "https://media.forgecdn.net/attachments/1740/560/4-png.png"
+    },
+    {
+      "id": 1463100,
+      "modId": 1312087,
+      "title": "The End",
+      "description": "The End",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1463/100/310/172/end-png.png",
+      "url": "https://media.forgecdn.net/attachments/1463/100/end-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.132",
+    "1.21.131",
+    "1.21.130",
+    "1.21.124",
+    "1.21.123",
+    "1.21.122"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/8493/166/NovaFX%20Visuals%20v3.2.0.mcpack",
+  "fileSize": "3.59 MB"
+}
+{
+  "id": "1374991",
+  "curseforge_id": 1374991,
+  "category": "mods",
+  "title": "DreamLight Shaders",
+  "description": "A good-performing, dreamy, stylized shader pack with colored lighting and fancy visuals.",
+  "thumbnail_url": "https://media.forgecdn.net/avatars/1499/157/638973746458959762.png",
+  "author": "HoneyStudios",
+  "download_count": 39600,
+  "version": "1.21.11",
+  "curseforge_url": "https://edge.forgecdn.net/files/7732/829/DreamLight%20Shaders%20v1.4.zip",
+  "name": "DreamLight Shaders",
+  "summary": "A good-performing, dreamy, stylized shader pack with colored lighting and fancy visuals.",
+  "logoUrl": "https://media.forgecdn.net/avatars/1499/157/638973746458959762.png",
+  "authors": [
+    {
+      "id": 131970763,
+      "name": "HoneyStudios",
+      "url": "https://www.curseforge.com/members/honeystudios",
+      "avatarUrl": "https://media.forgecdn.net/avatars/1547/312/639004152719813869.jpeg"
+    }
+  ],
+  "downloadCount": 39600,
+  "dateCreated": "2025-10-30T08:59:36.977Z",
+  "dateModified": "2026-03-09T08:40:07.397Z",
+  "screenshots": [
+    {
+      "id": 1375068,
+      "modId": 1374991,
+      "title": "Sunset - DreamLight Shaders",
+      "description": "Sunset - DreamLight Shaders",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1375/68/310/172/dreamlight-shaders-png.png",
+      "url": "https://media.forgecdn.net/attachments/1375/68/dreamlight-shaders-png.png"
+    }
+  ],
+  "gameVersions": [
+    "1.21.11"
+  ],
+  "modLoaders": [],
+  "downloadUrl": "https://edge.forgecdn.net/files/7732/829/DreamLight%20Shaders%20v1.4.zip",
+  "fileSize": "1.12 MB"
+}

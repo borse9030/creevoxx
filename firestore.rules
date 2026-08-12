@@ -1,0 +1,30 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Resources collection
+    match /resources/{resourceId} {
+      // Anyone can read/view resources (mods, shaders, textures)
+      allow read: if true;
+      
+      // Allow write access to import/seed resources.
+      // LOCKED: Set to 'false' after seeding to prevent unauthorized writes.
+      allow write: if false;
+
+      // Comments subcollection
+      match /comments/{commentId} {
+        // Anyone can read/view comments
+        allow read: if true;
+        
+        // Logged-in users can write comments
+        allow create: if request.auth != null 
+                      && request.resource.data.userId == request.auth.uid;
+                      
+        // Only the comment author can update or delete their comments
+        allow update, delete: if request.auth != null 
+                              && resource.data.userId == request.auth.uid;
+      }
+    }
+  }
+}
