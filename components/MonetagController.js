@@ -9,7 +9,7 @@ const MAX_DOWNLOAD_ADS = 1;  // Max popunders specifically from download button 
 // Helper: open the Monetag smartlink as a true pseudo-popunder
 function firePopunder() {
   try {
-    const adWin = window.open("https://omg10.com/4/11384572", "_blank");
+    const adWin = window.open("https://omg10.com/4/11563518", "_blank");
     if (adWin) {
       adWin.blur();    // push ad tab to background
       window.focus();  // snap focus back to the current page
